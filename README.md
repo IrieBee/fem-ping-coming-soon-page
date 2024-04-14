@@ -49,9 +49,9 @@ User should be able to:
 
 ### What I learned
 
-* 
+* Copyright icon: ***`&copy;`***
 ```html
-
+    <p>&copy; Copyright Ping. All rights reserved.</p>
 ```
 * 
 ```css
